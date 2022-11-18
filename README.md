@@ -1,3 +1,3 @@
-Задача: data grid view  
+Задача: datagridview  
 Черницкий Д.О.  
 в бренче
