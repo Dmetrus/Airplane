@@ -1,3 +1,3 @@
-Задача: datd grid view  
+Задача: data grid view  
 Черницкий Д.О.  
 в бренче
